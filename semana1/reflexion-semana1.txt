@@ -1,0 +1,10 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+-Estos tres terminos se relacionan en que son herramientas que permiten una sociedad construida
+apartir de la tecnologia y el desarrollo de entornos colaborativos, Gracias al uso responsable de lo
+que compartimos en internet las personas tienen un rol importante para construir una sociedad 
+transparente y justa con lo que ve teniendo una responsabilidad en comun de fomentar el pensamiento
+critico,con herramientas como git o hitgub vemos como esta responsabilidad hace accion, lugares pensados
+para que todos podamos crear lo que queramos pero siempre teniendo un rol de transaparencia ante lo
+que hacemos, con estos dos terminos la participacion esta en como interactuamos en cualquier parte de la 
+internet sin crear caos o mal informacion sobre lo que hacemos con la tecnologia con herramientas como 
+git o hitgub.
