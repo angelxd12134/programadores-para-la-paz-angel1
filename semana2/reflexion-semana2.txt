@@ -1,0 +1,8 @@
+La terminal de comandos representa el verdadero lenguaje de control detrás de la interfaz 
+visual de una computadora. Para un desarrollador, dominarla significa romper las barreras de
+los clics y hablarle directamente al sistema operativo con precisión. No se trata solo de mover
+archivos, sino de entender la arquitectura del proyecto desde su raíz más pura. Esta habilidad
+transforma la navegación lenta en una automatización fluida y eficiente, conectando al
+programador con herramientas esenciales como Git y servidores en la nube. Al final, la terminal
+deja de ser una pantalla negra intimidante y se convierte en el lienzo de productividad más
+poderoso para un creador de software.
