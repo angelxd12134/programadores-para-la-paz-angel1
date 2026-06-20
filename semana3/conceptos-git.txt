@@ -1,0 +1,10 @@
+Repositorio: Es un contenedor digital donde se organiza la estructura de un proyecto
+este mas que guardar la ultima version de los archivos, carpetas y codigos fuentes
+almacena el historial oculto de cada movimiento hecho desde que se creo.
+commit: Es una fotografia o un guardado rapido de los archivos en un momento 
+exacto, este comando es un mensaje para alguien o nosotros del futuro sobre
+que fue lo que cambiamos o arreglamos en un proyecto, permite que tengamos puntos 
+de control si algo sale mal.
+push: es la accion de subir y sincronizar todos los cambios y commits hechos desde
+la computadora local o codespace hacia la nube y servidores de GitHub, asegurandonos 
+que el proyecto esta seguro y que alguien mas pueda hecharle un vistazo en el repositorio.
